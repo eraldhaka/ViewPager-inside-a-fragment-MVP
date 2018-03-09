@@ -3,4 +3,4 @@ In this example is implemented a Activity that contain 2 fragments.
 First fragment has a recyclerView with dummy information.
 Second fragment has a viewpager with 2 views.
 
-https://imgflip.com/gif/262648
+<a href="https://imgflip.com/gif/262648"><img src="https://i.imgflip.com/262648.gif" title="made at imgflip.com"/></a>
